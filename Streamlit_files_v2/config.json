@@ -1,4 +1,4 @@
 {
-    "OPENAI_API_KEY": gl-U2FsdGVkX19ixyfFVDFx4GZflL9+iBwb0Oux3GEw0fCVpVD2n7LAulpxgQXV28HS ,
-    "OPENAI_API_BASE": https://aibe.mygreatlearning.com/openai/v1
+    "OPENAI_API_KEY": "gl-U2FsdGVkX19ixyfFVDFx4GZflL9+iBwb0Oux3GEw0fCVpVD2n7LAulpxgQXV28HS",
+    "OPENAI_API_BASE": "https://aibe.mygreatlearning.com/openai/v1"
 }
